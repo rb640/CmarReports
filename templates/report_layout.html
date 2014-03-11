@@ -1,0 +1,10 @@
+{% extends "layout.html" %}
+{% block body %}
+  {% if session.logged_in %}
+      <h1>Report Tree</h1>
+        <class=add-entry>
+          {%for filename in ReportTree%}
+      <h2> {{ filename }} </h2>
+    {% endfor %}
+  {% endif %}
+{% endblock %}

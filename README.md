@@ -1,5 +1,5 @@
 CMAR Report Portal
-==============
+==================
 ##codename: CR
 
 <br>
@@ -17,3 +17,10 @@ A cut and paste CMS application.
    
 ##Changelog
 -20140310 Initial Commit
+
+-20140316 Added auto-population mechanism to the reports
+
+-20140316 Added Todos
+
+##Todo
+-build front end for scheduling uploads

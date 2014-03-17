@@ -3,8 +3,12 @@
   {% if session.logged_in %}
       <h1>Report Tree</h1>
         <class=add-entry>
-          {%for filename in ReportTree%}
-      <h2> {{ filename }} </h2>
+        <ul>
+        	{%for reports in reports%}
+    			<li>
+    				<h2> {{ reports }} </h2>
+    			</li>
+    	</ul>
     {% endfor %}
   {% endif %}
 {% endblock %}

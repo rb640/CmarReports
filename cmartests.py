@@ -70,6 +70,10 @@ class FlaskrTestCase(unittest.TestCase):
         assert b'&lt;Hello&gt;' in rv.data
         assert b'<strong>HTML</strong> allowed here' in rv.data
 
-
+    def ReportTree():
+        for dirname, dirnames, filenames in os.walk(r'C:\Users\RONPC5\Desktop\python\flask-master\examples\CMAR - Portal\reports\\'):
+            for filename in filenames:
+                return filename
+                
 if __name__ == '__main__':
     unittest.main()

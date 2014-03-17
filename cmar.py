@@ -11,6 +11,7 @@
 """
 
 import os
+from rpttree import get_logs_list
 from sqlite3 import dbapi2 as sqlite3
 from flask import Flask, request, session, g, redirect, url_for, abort, \
      render_template, flash
@@ -108,11 +109,9 @@ def goog():
     return redirect("http://www.google.com", code=302)
 
 @app.route('/ReportTree')
-def ReportTree():
-    for dirname, dirnames, filenames in os.walk(r'C:\Users\RONPC5\Desktop\python\flask-master\examples\CMAR - Portal\reports\\'):
-        for filename in filenames:
-            return filename
-            return render_template('report_layout.html')
+def reports():
+    reports = get_logs_list()
+    return render_template('report_layout.html',reports=reports)
 
 
 if __name__ == '__main__':

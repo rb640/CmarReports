@@ -1,8 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Droid+Sans);
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300);
 
-body            { font-family: 'Droid Sans', sans-serif; background: #eee; }
+body            { font-family: 'Open Sans Condensed', sans-serif; background: #eee; }
 a, h1, h2       { color: #377BA8; }
-h1, h2          { font-family: 'Droid Sans', sans-serif; margin: 0; }
+h1, h2          { font-family: 'Open Sans Condensed'; margin: 0; }
 h1              { border-bottom: 2px solid #eee; }
 h2              { font-size: 1.2em; }
 

@@ -22,9 +22,9 @@ A cut and paste CMS application.
 
 -20140316 Added Todos
 
+-2014 Minor changes
+
 ##Todo
 -build front end for scheduling uploads
-
-##vmt
-
-
+-Add Hyperlinks to report trees.
+-Create accordian or folding map.

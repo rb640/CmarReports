@@ -2,7 +2,6 @@ import os
 import uuid
 import logging
 import zipfile
-
 import appsettings
 #log = logging.getLogger(__name__)
 

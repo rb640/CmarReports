@@ -1,8 +1,7 @@
 import os
+
 def ReportTree():
 	return os.listdir(os.getcwd())
-
-import os
 
 def get_directory_structure(rootdir):
     """

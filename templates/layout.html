@@ -5,9 +5,9 @@
   <h1>Aqua | CMAR Report Portal</h1>
   <div class=metanav>
   {% if not session.logged_in %}
-    <a href="{{ url_for('login') }}">log in</a>
+    <a href="{{ url_for('login') }}">Log In</a>
   {% else %}
-    <a href="{{ url_for('logout') }}">log out</a> 
+    <a href="{{ url_for('logout') }}">Log Out</a> 
       <br>
     <a href="{{ url_for('goog') }}">Send to Google</a>
       <br>

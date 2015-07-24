@@ -1,0 +1,304 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fi",
+				"Fibonacci"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ronbarnard/Desktop/everyday/Chapter 5 - Discover Yourself Through Email/get_mails_gmail.rb",
+		"/Users/ronbarnard/Desktop/everyday/Chapter 5 - Discover Yourself Through Email/mailminer/R/mailminer.R",
+		"/Users/ronbarnard/Desktop/m.txt",
+		"/Users/ronbarnard/Desktop/Medicare-Physician-and-Other-Supplier-PUF-SAS-Infile.sas",
+		"/Users/ronbarnard/Desktop/fb.py",
+		"/Users/ronbarnard/Desktop/FacebookAPI.py",
+		"/Users/ronbarnard/Desktop/ACCESS_TOKEN = 'CAACEdEose0cBAAnhWJwBPYdUvf8XFrhdf.py",
+		"/Users/ronbarnard/Desktop/Flask-Report-master/example/models.py",
+		"/Users/ronbarnard/Desktop/Flask-Report-master/run_example.sh",
+		"/Users/ronbarnard/Desktop/Flask-Report-master/flask_report/report_templates.py",
+		"/Users/ronbarnard/Desktop/Flask-Report-master/flask_report/report.py",
+		"/Users/ronbarnard/Desktop/CmarReports/schema.sql",
+		"/Users/ronbarnard/Downloads/decode.js",
+		"/Users/ronbarnard/Downloads/customizer.js",
+		"/Users/ronbarnard/Downloads/gruntfile.js",
+		"/Users/ronbarnard/Downloads/get_pip.py",
+		"/Users/ronbarnard/Desktop/HealthInformationManagement_Stat_Calc.py",
+		"/Users/ronbarnard/Desktop/site/public_html/apptinsight.html",
+		"/Users/ronbarnard/Desktop/site/public_html/css/hello.css",
+		"/Users/ronbarnard/Desktop/site/public_html/hello.html",
+		"/Users/ronbarnard/Desktop/site/public_html/css/index.css",
+		"/Users/ronbarnard/Desktop/site/public_html/holder.js",
+		"/Users/ronbarnard/Desktop/site/public_html/hello.css",
+		"/Users/ronbarnard/Desktop/site/public_html/index.html",
+		"/Users/ronbarnard/Desktop/site/public_html/MindMap/MindMap.html",
+		"/Users/ronbarnard/Desktop/site/public_html/MindMap/firebase.js",
+		"/Users/ronbarnard/Desktop/site/public_html/MindMap/firebase-simple-login.js",
+		"/Users/ronbarnard/Desktop/site/public_html/config.json",
+		"/Users/ronbarnard/Desktop/site/public_html/css/helloworld.css",
+		"/Users/ronbarnard/Desktop/site/public_html/logo/logo.svg",
+		"/Users/ronbarnard/Desktop/site/public_html/src/backend.firebase.js",
+		"/Users/ronbarnard/Desktop/site/public_html/src/backend.gdrive.js",
+		"/Users/ronbarnard/Desktop/site/public_html/src/action.js",
+		"/Users/ronbarnard/Desktop/site/public_html/src/format.js",
+		"/Users/ronbarnard/Desktop/site/public_html/rongle.html",
+		"/Users/ronbarnard/Desktop/site/public_html/js/CustomTooltip.js",
+		"/Users/ronbarnard/Desktop/site/public_html/js/modernizr-2.0.6.min.js",
+		"/Users/ronbarnard/Desktop/site/public_html/js/coffee-script.js",
+		"/Users/ronbarnard/Desktop/site/public_html/js/script.js",
+		"/Users/ronbarnard/Desktop/site/public_html/js/plugins.js",
+		"/Users/ronbarnard/Desktop/site/public_html/my-mind.js",
+		"/Users/ronbarnard/Downloads/bashrc",
+		"/Users/ronbarnard/Downloads/bash_profile",
+		"/Users/ronbarnard/Downloads/bash_logout",
+		"/Users/ronbarnard/Downloads/default",
+		"/Users/ronbarnard/Downloads/blog.py",
+		"/Users/ronbarnard/Downloads/flights-3m (1).json",
+		"/Users/ronbarnard/Downloads/dashboard.js",
+		"/Users/ronbarnard/Downloads/404 (2).shtml",
+		"/Users/ronbarnard/Downloads/wp-comments-post.php",
+		"/Users/ronbarnard/Desktop/ronbarnard.net blog",
+		"/Users/ronbarnard/Desktop/blug-master/blug/blug.py",
+		"/Users/ronbarnard/Desktop/blug-master/config.py",
+		"/Users/ronbarnard/Desktop/This is the Linode.txt",
+		"/Users/ronbarnard/Desktop/blog-master/templates/modules/entry.html",
+		"/Users/ronbarnard/Desktop/Aqua Files/Aqua.html",
+		"/Users/ronbarnard/Desktop/rongle (1).html",
+		"/1) Juan Pablo se despierta a la seis y media y se",
+		"/Users/ronbarnard/Desktop/stopserv.py",
+		"/Users/ronbarnard/Desktop/hello.py",
+		"/Users/ronbarnard/Desktop/dimple.html",
+		"/Users/ronbarnard/Desktop/Mario-Level-1-master/data/components/coin.py",
+		"/Users/ronbarnard/Desktop/Mario-Level-1-master/data/states/__init__.py",
+		"/Users/ronbarnard/Desktop/Mario-Level-1-master/data/states/load_screen.py",
+		"/Users/ronbarnard/Desktop/Mario-Level-1-master/data/states/main_menu.py",
+		"/Users/ronbarnard/Desktop/pyfunc.py",
+		"/Users/ronbarnard/Desktop/survey.py",
+		"/Users/ronbarnard/Desktop/foo.py",
+		"/Users/ronbarnard/Desktop/apptinsight.html",
+		"/Users/ronbarnard/Desktop/metacss.css",
+		"/Users/ronbarnard/Library/Application Support/Sublime Text 3/Packages/User/Chrome.sublime-build",
+		"/Users/ronbarnard/Desktop/appt-3m.csv",
+		"/Users/ronbarnard/Desktop/appt-3m 2.json",
+		"/Users/ronbarnard/Desktop/flights-3m.json",
+		"/Users/ronbarnard/Desktop/crossfilter.html",
+		"/Users/ronbarnard/Desktop/crossfilter-master/index.js",
+		"/Users/ronbarnard/Desktop/sphere/demo-print.css",
+		"/Users/ronbarnard/Desktop/sphere/demo.css",
+		"/Users/ronbarnard/Desktop/raphael.js",
+		"/Users/ronbarnard/Desktop/demo-print.css",
+		"/Users/ronbarnard/Desktop/demo.css",
+		"/Users/ronbarnard/Downloads/Sphere.html",
+		"/Users/ronbarnard/Downloads/chart.svg",
+		"/Users/ronbarnard/Desktop/crossfilter-gh-pages/crossfilter.html",
+		"/Users/ronbarnard/Desktop/crossfilter-gh-pages/flights-3m.json",
+		"/Users/ronbarnard/Desktop/crossfilter-master/crossfilter-gh-pages/d3.v3.min.js",
+		"/Users/ronbarnard/Desktop/crossfilter-master/src/quicksort.js",
+		"/Users/ronbarnard/Desktop/footest.html",
+		"/Users/ronbarnard/Desktop/mm2.html",
+		"/Users/ronbarnard/Desktop/mm.html",
+		"/Users/ronbarnard/Desktop/cgiecho",
+		"/Users/ronbarnard/Desktop/ftpquota",
+		"/Users/ronbarnard/Desktop/mmt.html",
+		"/Users/ronbarnard/Desktop/scottrade",
+		"/Users/ronbarnard/Desktop/stuff to keep in mind",
+		"/Users/ronbarnard/Desktop/fakedata.py",
+		"/Users/ronbarnard/Desktop/faker.py",
+		"/Users/ronbarnard/Downloads/My Mind Map.mymind",
+		"/Users/ronbarnard/Desktop/sp_execute.py",
+		"/Users/ronbarnard/Desktop/bootstrap-html5-layout-source/css/bootstrap-responsive.min.css",
+		"/Users/ronbarnard/Desktop/css/global.css",
+		"/Users/ronbarnard/Desktop/pvp.html",
+		"/Users/ronbarnard/Desktop/font-awesome-4.0.3/css/font-awesome.css",
+		"/Users/ronbarnard/Desktop/pvp120k.html",
+		"/Users/ronbarnard/Desktop/crazy rants",
+		"/Users/ronbarnard/Desktop/logvisit.py",
+		"/Users/ronbarnard/Desktop/aqua.html",
+		"/Users/ronbarnard/Desktop/goocheck.html",
+		"/Users/ronbarnard/Desktop/dbconns",
+		"/Users/ronbarnard/Desktop/test.html",
+		"/Users/ronbarnard/Desktop/test.cshtml",
+		"/Users/ronbarnard/Desktop/googlechar.html",
+		"/Users/ronbarnard/Desktop/helloworld (1).css",
+		"/Users/ronbarnard/Downloads/ronbarnard.net-bytes_log",
+		"/Users/ronbarnard/Desktop/spn2 sign on",
+		"/Users/ronbarnard/Desktop/Stuff/Projects/Working Files/enron.sql",
+		"/Users/ronbarnard/Desktop/ZillowAPI",
+		"/Users/ronbarnard/Desktop/zillowpy.py",
+		"/untitled.html",
+		"/foo.html",
+		"/Applications/Sublime Text.app/Contents/MacOS/changelog.txt",
+		"/da.html",
+		"/bar.html",
+		"/Users/ronbarnard/Desktop/foo.csv",
+		"/Users/ronbarnard/Desktop/fopo.html",
+		"/Users/ronbarnard/Desktop/CMAR/main.html",
+		"/Users/ronbarnard/Desktop/main.html",
+		"/Users/ronbarnard/Desktop/Buy Vs Rent"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scott",
+			"example.com",
+			"min",
+			"60",
+			"-6",
+			"-60",
+			"length",
+			"flight",
+			"crossfilter",
+			"flights",
+			"background",
+			">",
+			"font",
+			"bored",
+			"image",
+			"\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bigben.cc",
+			"appt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "appsettings.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 295.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -14,11 +14,12 @@ import os
 from rpttree import get_logs_list
 from sqlite3 import dbapi2 as sqlite3
 from flask import Flask, request, session, g, redirect, url_for, abort, \
-     render_template, flash
+     render_template, flash, Response
 
 
 # create our little application :)
 app = Flask(__name__)
+static = 'templates'
 
 # Load default config and override config from an environment variable
 app.config.update(dict(
@@ -108,10 +109,28 @@ def logout():
 def goog():
     return redirect("http://www.google.com", code=302)
 
-@app.route('/ReportTree')
+@app.route('/reports/')
 def reports():
     reports = get_logs_list()
     return render_template('report_layout.html',reports=reports)
+
+# @app.route('/reports/')
+# def reports():
+#     reports = get_logs_list()
+#     return render_template('css_tree/treeview.html',reports=reports)
+
+
+
+
+
+@app.route('/stream')
+def streamed_response():
+    def generate():
+        yield 'Hello '
+        yield request.args['name']
+        yield '!'
+    return Response(stream_with_context(generate()))
+
 
 
 if __name__ == '__main__':

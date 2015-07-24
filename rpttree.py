@@ -12,6 +12,7 @@ def get_logs_list():
     result = []    
     for file in os.listdir(appsettings.LOG_DIR):
         result.append(file)
+        #result.append(os.path.abspath(file))
         
     #log.debug('Found log files: %s', str(result))
     return result
